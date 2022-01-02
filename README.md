@@ -1,6 +1,6 @@
 # Custom-Assembler-and-Simulator
 # CO M21 Assignment
-Course Project for Computer Organization, Monsoon 2021 semester, at IIITD
+Course Project for Computer Organization, Winter 2021 semester, at IIITD
 
 
 ## Adding code
